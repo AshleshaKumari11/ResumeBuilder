@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EmployeesEntities-Web.config Connection String" description="EmployeesEntities Connection String used in web.config by the application to access the database." defaultValue="**metadata=**res://*/EmployeeModel.csdl|res://*/EmployeeModel.ssdl|res://*/EmployeeModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=tcp:employeesdetailsdbserver.database.windows.net,1433;Initial Catalog=Employees;Integrated Security=False;User ID=Id=Ashlesha@employeesdetailsdbserver;Password=Pummy@1994;**MultipleActiveResultSets=True**;Encrypt=True;TrustServerCertificate=False&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\final\ project\\EmployeesDetails\\EmployeesDetails\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeesEntities']/@connectionString" />
+  </parameter>
+</parameters>
